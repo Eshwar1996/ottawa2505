@@ -22,7 +22,7 @@ public class SumOfNumbers {
 
         // Display the result
         System.out.println("The sum of the first " + n + " natural numbers is: " + sum);
-        System.out.println("Test");
+        System.out.println("Tests solved");
     }
 
     // Function to calculate the sum of the first n natural numbers
